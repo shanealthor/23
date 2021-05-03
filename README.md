@@ -1,2 +1,2 @@
 # Illuminati.Finance
-Illuminati 23
+Illuminati.Finance DeFi Application
